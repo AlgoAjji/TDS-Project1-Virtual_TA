@@ -139,7 +139,7 @@ sympy==1.14.0
 tensorboard==2.19.0
 tensorboard_data_server==0.7.2
 tensorboard_plugin_wit==1.8.1
-tensorflow==2.19.0
+tensorflow==2.10.0
 termcolor==2.5.0
 tf_keras==2.19.0
 threadpoolctl==3.6.0
