@@ -30,6 +30,7 @@ google-auth-oauthlib==1.2.1
 google-pasta==0.2.0
 grpcio==1.72.0
 grpcio-tools==1.72.0
+gunicorn==22.0.0
 h11==0.16.0
 h5py==3.14.0
 hf-xet==1.1.3
