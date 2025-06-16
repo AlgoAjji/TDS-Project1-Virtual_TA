@@ -1,0 +1,1 @@
+This repo does not consist my private API KEY from Open AI API pipeline, which is a vital requirement of this project. I have deployed another similar repo, which works completely fine, but due to privacy concerns of my API key, I haven't included any info about it here. So you are supposed to run it seperately under the environment variable in render!!
